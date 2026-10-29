@@ -42,7 +42,3 @@ Currently pursuing a bachelor's degree in **Information Systems** at **UNIFEI** 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AlexOliv17&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexOliv17&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</p>
